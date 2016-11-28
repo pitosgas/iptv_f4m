@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,====PORTUGAL====
+http://62.4.21.70:8000/live/benani/benani/1747.ts
+#EXTINF:-1,Tvi_24_-_Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3606.ts
+#EXTINF:-1,Tvi_-_Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3607.ts
+#EXTINF:-1,Sport_TV_1_-_Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3619.ts
+#EXTINF:-1,Sic_Noticias_-_Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3579.ts
+#EXTINF:-1,Sic_Mulher_-_Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3580.ts
+#EXTINF:-1,Sic_Caras_-_Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3581.ts
+#EXTINF:-1,Sic_-_Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3577.ts
