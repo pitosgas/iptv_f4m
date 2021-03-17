@@ -1,412 +1,411 @@
 #EXTM3U
-#EXTINF:-1, +++++ Lista 1 +++++
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/00000
-#EXTINF:-1, +++++++++++++++++++
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/00000
-#EXTINF:-1, Rai 1
+#EXTINF:-1, group-title="TV Cabo",TVI
+
+
+#EXTINF:-1, group-title="Lista_1", Rai 1
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116953
-#EXTINF:-1, Rai 2
+#EXTINF:-1, group-title="Lista_1", Rai 2
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116954
-#EXTINF:-1, Rai 3
+#EXTINF:-1, group-title="Lista_1", Rai 3
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116955
-#EXTINF:-1, Rete 4
+#EXTINF:-1, group-title="Lista_1", Rete 4
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116956
-#EXTINF:-1, Canale 5
+#EXTINF:-1, group-title="Lista_1", Canale 5
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116957
-#EXTINF:-1, Italia 1
+#EXTINF:-1, group-title="Lista_1", Italia 1
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116958
-#EXTINF:-1, La 7
+#EXTINF:-1, group-title="Lista_1", La 7
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116959
-#EXTINF:-1, Tv8 IT
+#EXTINF:-1, group-title="Lista_1", Tv8 IT
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116960
-#EXTINF:-1, La7 D
+#EXTINF:-1, group-title="Lista_1", La7 D
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116961
-#EXTINF:-1, Nove
+#EXTINF:-1, group-title="Lista_1", Nove
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116962
-#EXTINF:-1, Cine 34
+#EXTINF:-1, group-title="Lista_1", Cine 34
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116963
-#EXTINF:-1, Dove
+#EXTINF:-1, group-title="Lista_1", Dove
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116964
-#EXTINF:-1, Top Crime
+#EXTINF:-1, group-title="Lista_1", Top Crime
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116965
-#EXTINF:-1, Mediaset 20
+#EXTINF:-1, group-title="Lista_1", Mediaset 20
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116966
-#EXTINF:-1, Mediaset Extra
+#EXTINF:-1, group-title="Lista_1", Mediaset Extra
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116967
-#EXTINF:-1, La 5
+#EXTINF:-1, group-title="Lista_1", La 5
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116968
-#EXTINF:-1, Iris
+#EXTINF:-1, group-title="Lista_1", Iris
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116969
-#EXTINF:-1, Italia 2
+#EXTINF:-1, group-title="Lista_1", Italia 2
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116970
-#EXTINF:-1, Real time
+#EXTINF:-1, group-title="Lista_1", Real time
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116971
-#EXTINF:-1, Dmax
+#EXTINF:-1, group-title="Lista_1", Dmax
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116972
-#EXTINF:-1, Alice
+#EXTINF:-1, group-title="Lista_1", Alice
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116973
-#EXTINF:-1, Rai Premium
+#EXTINF:-1, group-title="Lista_1", Rai Premium
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116974
-#EXTINF:-1, Rai Movie
+#EXTINF:-1, group-title="Lista_1", Rai Movie
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116975
-#EXTINF:-1, Rai Scuola
+#EXTINF:-1, group-title="Lista_1", Rai Scuola
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116976
-#EXTINF:-1, Canale 7
+#EXTINF:-1, group-title="Lista_1", Canale 7
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116977
-#EXTINF:-1, Rai 4
+#EXTINF:-1, group-title="Lista_1", Rai 4
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116978
-#EXTINF:-1, Rai 5
+#EXTINF:-1, group-title="Lista_1", Rai 5
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116979
-#EXTINF:-1, Paramount Channel
+#EXTINF:-1, group-title="Lista_1", Paramount Channel
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116980
-#EXTINF:-1, Giallo
+#EXTINF:-1, group-title="Lista_1", Giallo
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116981
-#EXTINF:-1, RSI LA 1
+#EXTINF:-1, group-title="Lista_1", RSI LA 1
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116982
-#EXTINF:-1, RSI LA 2
+#EXTINF:-1, group-title="Lista_1", RSI LA 2
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116983
-#EXTINF:-1, Sky Cinema Uno
+#EXTINF:-1, group-title="Lista_1", Sky Cinema Uno
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116984
-#EXTINF:-1, Sky Cinema uno 24
+#EXTINF:-1, group-title="Lista_1", Sky Cinema uno 24
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116985
-#EXTINF:-1, Sky Cinema Due
+#EXTINF:-1, group-title="Lista_1", Sky Cinema Due
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116986
-#EXTINF:-1, Sky Cinema Due 24
+#EXTINF:-1, group-title="Lista_1", Sky Cinema Due 24
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116987
-#EXTINF:-1, Sky Cinema Collection
+#EXTINF:-1, group-title="Lista_1", Sky Cinema Collection
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116988
-#EXTINF:-1, Sky Cinema Family
+#EXTINF:-1, group-title="Lista_1",Sky Cinema Family
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116989
-#EXTINF:-1, Sky Cinema Comedy
+#EXTINF:-1, group-title="Lista_1", Sky Cinema Comedy
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116990
-#EXTINF:-1, Sky Cinema Action
+#EXTINF:-1, group-title="Lista_1", Sky Cinema Action
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116991
-#EXTINF:-1, Sky Cinema Suspense
+#EXTINF:-1, group-title="Lista_1", Sky Cinema Suspense
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116992
-#EXTINF:-1, Sky Cinema Romance
+#EXTINF:-1, group-title="Lista_1", Sky Cinema Romance
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116993
-#EXTINF:-1, Sky Cinema Drama
+#EXTINF:-1, group-title="Lista_1", Sky Cinema Drama
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116994
-#EXTINF:-1, Premium Cinema Uno
+#EXTINF:-1, group-title="Lista_1", Premium Cinema Uno
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116995
-#EXTINF:-1, Premium Cinema 24
+#EXTINF:-1, group-title="Lista_1", Premium Cinema 24
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116996
-#EXTINF:-1, Premium Cinema Emotion
+#EXTINF:-1, group-title="Lista_1", Premium Cinema Emotion
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116997
-#EXTINF:-1, Premium Cinema Comedy
+#EXTINF:-1, group-title="Lista_1", Premium Cinema Comedy
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116998
-#EXTINF:-1, Premium Cinema Energy
+#EXTINF:-1, group-title="Lista_1", Premium Cinema Energy
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116999
-#EXTINF:-1, Premium Cinema Action
+#EXTINF:-1, group-title="Lista_1", Premium Cinema Action
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117000
-#EXTINF:-1, Premium Cinema Crime
+#EXTINF:-1, group-title="Lista_1", Premium Cinema Crime
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117001
-#EXTINF:-1, Premium Cinema Stories
+#EXTINF:-1, group-title="Lista_1", Premium Cinema Stories
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117002
-#EXTINF:-1, Sky Uno
+#EXTINF:-1, group-title="Lista_1", Sky Uno
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117003
-#EXTINF:-1, Sky Atlantic
+#EXTINF:-1, group-title="Lista_1", Sky Atlantic
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117004
-#EXTINF:-1, Sky Blaze
+#EXTINF:-1, group-title="Lista_1", Sky Blaze
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117005
-#EXTINF:-1, Sky Lei
+#EXTINF:-1, group-title="Lista_1", Sky Lei
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117006
-#EXTINF:-1, Sky Fox
+#EXTINF:-1, group-title="Lista_1", Sky Fox
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117007
-#EXTINF:-1, Sky Fox Life
+#EXTINF:-1, group-title="Lista_1", Sky Fox Life
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117008
-#EXTINF:-1, Sky Fox Crime
+#EXTINF:-1, group-title="Lista_1", Sky Fox Crime
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117009
-#EXTINF:-1, Comedy Central
+#EXTINF:-1, group-title="Lista_1", Comedy Central
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117010
-#EXTINF:-1, Sky Crime Investigation
+#EXTINF:-1, group-title="Lista_1", Sky Crime Investigation
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117011
-#EXTINF:-1, Sky Real Time
+#EXTINF:-1, group-title="Lista_1", Sky Real Time
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117012
-#EXTINF:-1, Sky Cielo
+#EXTINF:-1, group-title="Lista_1", Sky Cielo
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117013
-#EXTINF:-1, Sky Food Network
+#EXTINF:-1, group-title="Lista_1", Sky Food Network
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117014
-#EXTINF:-1, Sky Laeffe
+#EXTINF:-1, group-title="Lista_1", Sky Laeffe
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117015
-#EXTINF:-1, Sky Dove
+#EXTINF:-1, group-title="Lista_1", Sky Dove
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117016
-#EXTINF:-1, Sky Gambero Rosso
+#EXTINF:-1, group-title="Lista_1", Sky Gambero Rosso
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117017
-#EXTINF:-1, Sky Arte
+#EXTINF:-1, group-title="Lista_1", Sky Arte
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117018
-#EXTINF:-1, Sky Nat Geo
+#EXTINF:-1, group-title="Lista_1", Sky Nat Geo
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117019
-#EXTINF:-1, Sky Nat Geo Wild
+#EXTINF:-1, group-title="Lista_1", Sky Nat Geo Wild
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117020
-#EXTINF:-1, Sky Discovery
+#EXTINF:-1, group-title="Lista_1", Sky Discovery
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117021
-#EXTINF:-1, Sky Discovery Sci
+#EXTINF:-1, group-title="Lista_1", Sky Discovery Sci
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117022
-#EXTINF:-1, Focus
+#EXTINF:-1, group-title="Lista_1", Focus
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117023
-#EXTINF:-1, Sky History
+#EXTINF:-1, group-title="Lista_1", Sky History
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117024
-#EXTINF:-1, Spike
+#EXTINF:-1, group-title="Lista_1", Spike
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117025
-#EXTINF:-1, Italian Fishing tv
+#EXTINF:-1, group-title="Lista_1", Italian Fishing tv
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117026
-#EXTINF:-1, Sky Caccia e Pesca
+#EXTINF:-1, group-title="Lista_1", Sky Caccia e Pesca
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117027
-#EXTINF:-1, Sky Pesca e Caccia
+#EXTINF:-1, group-title="Lista_1", Sky Pesca e Caccia
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117028
-#EXTINF:-1, Marco Polo
+#EXTINF:-1, group-title="Lista_1", Marco Polo
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117029
-#EXTINF:-1, Sky Sport 24
+#EXTINF:-1, group-title="Lista_1", Sky Sport 24
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117030
-#EXTINF:-1, Sky Sport Uno
+#EXTINF:-1, group-title="Lista_1", Sky Sport Uno
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117031
-#EXTINF:-1, Sky Sport Football
+#EXTINF:-1, group-title="Lista_1", Sky Sport Football
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117032
-#EXTINF:-1, Sky Sport Collection
+#EXTINF:-1, group-title="Lista_1", Sky Sport Collection
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117033
-#EXTINF:-1, Sky Sport Arena
+#EXTINF:-1, group-title="Lista_1", Sky Sport Arena
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117034
-#EXTINF:-1, Rai Sport
+#EXTINF:-1, group-title="Lista_1", Rai Sport
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117035
-#EXTINF:-1, Sport Italia
+#EXTINF:-1, group-title="Lista_1", Sport Italia
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117036
-#EXTINF:-1, Rtv Sport
+#EXTINF:-1, group-title="Lista_1", Rtv Sport
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117037
-#EXTINF:-1, Sky Sport NBA
+#EXTINF:-1, group-title="Lista_1", Sky Sport NBA
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117038
-#EXTINF:-1, Super Tennis
+#EXTINF:-1, group-title="Lista_1", Super Tennis
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117039
-#EXTINF:-1, Eurosport 1
+#EXTINF:-1, group-title="Lista_1", Eurosport 1
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117040
-#EXTINF:-1, Eurosport 2
+#EXTINF:-1, group-title="Lista_1", Eurosport 2
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117041
-#EXTINF:-1, WWE wrestiling
+#EXTINF:-1, group-title="Lista_1", WWE wrestiling
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117042
-#EXTINF:-1, Sky Sport F1
+#EXTINF:-1, group-title="Lista_1", Sky Sport F1
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117043
-#EXTINF:-1, Sky Moto Gp
+#EXTINF:-1, group-title="Lista_1", Sky Moto Gp
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117044
-#EXTINF:-1, Bike Channel
+#EXTINF:-1, group-title="Lista_1", Bike Channel
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117045
-#EXTINF:-1, Motor Trend
+#EXTINF:-1, group-title="Lista_1", Motor Trend
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117046
-#EXTINF:-1, Sky Sport Serie A
+#EXTINF:-1, group-title="Lista_1", Sky Sport Serie A
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117047
-#EXTINF:-1, Sky Calcio 1
+#EXTINF:-1, group-title="Lista_1", Sky Calcio 1
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117048
-#EXTINF:-1, Sky Calcio 2
+#EXTINF:-1, group-title="Lista_1", Sky Calcio 2
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117049
-#EXTINF:-1, Sky Calcio 3
+#EXTINF:-1, group-title="Lista_1", Sky Calcio 3
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117050
-#EXTINF:-1, Sky Calcio 4
+#EXTINF:-1, group-title="Lista_1", Sky Calcio 4
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117051
-#EXTINF:-1, Sky Calcio 5
+#EXTINF:-1, group-title="Lista_1", Sky Calcio 5
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117052
-#EXTINF:-1, Dazn 1
+#EXTINF:-1, group-title="Lista_1", Dazn 1
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117053
-#EXTINF:-1, Dazn 2
+#EXTINF:-1, group-title="Lista_1", Dazn 2
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117054
-#EXTINF:-1, Milan Channel
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117058
-#EXTINF:-1, Inter Tv
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117059
-#EXTINF:-1, Torino Channel
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117060
-#EXTINF:-1, Roma Channel
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117061
-#EXTINF:-1, Lazio Style Channel
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117062
-#EXTINF:-1, Calcio Napoli 21
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117063
-#EXTINF:-1, Eleven Sport 1
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117064
-#EXTINF:-1, Eleven Sport 2
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117065
-#EXTINF:-1, Eleven Sport 3
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117066
-#EXTINF:-1, Eleven Sport 4
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117067
-#EXTINF:-1, Rai News
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117068
-#EXTINF:-1, Tgcom
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117069
-#EXTINF:-1, Tg Norma 24
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117070
-#EXTINF:-1, Sky Tg24
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117071
-#EXTINF:-1, Disney Channel
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117072
-#EXTINF:-1, Disney Junior
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117073
-#EXTINF:-1, Cartoon Network
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117074
-#EXTINF:-1, Nick Junior
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117075
-#EXTINF:-1, Boomerang
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117076
-#EXTINF:-1, Cartoonito
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117077
-#EXTINF:-1, Nickelodeon
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117078
-#EXTINF:-1, Super
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117079
-#EXTINF:-1, Dea Junior
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117080
-#EXTINF:-1, Dea Kids
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117081
-#EXTINF:-1, Rai Gulp
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117082
-#EXTINF:-1, Rai YoYo
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117083
-#EXTINF:-1, Boing
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117084
-#EXTINF:-1, K2
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117085
-#EXTINF:-1, Manga
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117086
-#EXTINF:-1, TeenNick
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117087
-#EXTINF:-1, Baby tv
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117088
-#EXTINF:-1, Peppa Pig Channel
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117089
-#EXTINF:-1, Braccio Di ferro 2
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117090
-#EXTINF:-1, Braccio di Ferro 1
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117091
-#EXTINF:-1, Booba
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117092
-#EXTINF:-1, Dragon Ball 1
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117093
-#EXTINF:-1, Dragon Ball 2
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117094
-#EXTINF:-1, Dragon Ball 3
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117095
-#EXTINF:-1, Dragon Ball 4
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117096
-#EXTINF:-1, Paperino
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117097
-#EXTINF:-1, Peppa Pig 2
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117098
-#EXTINF:-1, Ricky Zoom
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117099
-#EXTINF:-1, PrimaFila Live 1
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117100
-#EXTINF:-1, PrimaFila Live 2
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117101
-#EXTINF:-1, PrimaFila Live 3
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117102
-#EXTINF:-1, PrimaFila Live 4
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117103
-#EXTINF:-1, PrimaFila Live 5
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117104
-#EXTINF:-1, PrimaFila Live 6
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117105
-#EXTINF:-1, PrimaFila Live 7
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117106
-#EXTINF:-1, PrimaFila Live 8
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117107
-#EXTINF:-1, PrimaFila Live 9
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117108
-#EXTINF:-1, PrimaFila Live 10
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117109
-#EXTINF:-1, PrimaFila Live 11
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117110
-#EXTINF:-1, PrimaFila Live 12
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117111
-#EXTINF:-1, Tema Cinema hd
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117112
-#EXTINF:-1, Tema Avventura hd
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117113
-#EXTINF:-1, Tema Azione hd
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117114
-#EXTINF:-1, Tema Commedia hd
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117115
-#EXTINF:-1, Tema Guerra hd
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117116
-#EXTINF:-1, Tema Romantico hd
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117117
-#EXTINF:-1, Tema Thriller hd
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117118
-#EXTINF:-1, GRANDE FRATELLO VIP DIRETTA  1
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117119
-#EXTINF:-1, GRANDE FRATELLO VIP DIRETTA  2
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117120
-#EXTINF:-1, VHI
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117121
-#EXTINF:-1, MTV
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117122
-#EXTINF:-1, RADIO PETERPAN
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117123
-#EXTINF:-1, RADIO ZETA
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117124
-#EXTINF:-1, SKY MTv Music
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117125
-#EXTINF:-1, M2O
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117126
-#EXTINF:-1, DEEJAY TV
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117127
-#EXTINF:-1, FM ITALIA
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117128
-#EXTINF:-1, OTTO FM Tv
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117129
-#EXTINF:-1, Prima TV Sicilia
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117130
-#EXTINF:-1, Radio Italia Vision
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117131
-#EXTINF:-1, Radio BRUNO
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117132
-#EXTINF:-1, RADIO Capital
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117133
-#EXTINF:-1, Radio Taormina
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117134
-#EXTINF:-1, Radio FRECCIA
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117135
-#EXTINF:-1, RDS Social TV
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117136
-#EXTINF:-1, RADIO Lombardia
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117137
-#EXTINF:-1, Antena Sud Puglia
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117138
-#EXTINF:-1, Esperia TV 18 Calabria
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117139
-#EXTINF:-1, Antena Sud
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117140
-#EXTINF:-1, Italia 2 TV
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117141
-#EXTINF:-1, Telearena
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117142
-#EXTINF:-1, Super J TV Teramo
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117143
-#EXTINF:-1, Sophia TV
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117144
-#EXTINF:-1, Senato della Repubblica
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117145
-#EXTINF:-1, Sardegna Uno
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117146
-#EXTINF:-1, RMM Marche
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117147
-#EXTINF:-1, Gold Tv Roma
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117148
-#EXTINF:-1, History Lab
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117149
-#EXTINF:-1, Icaro TV Rimini
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117150
-#EXTINF:-1, Antenna Tre
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117151
-#EXTINF:-1, Canali 21 Campania
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117152
-#EXTINF:-1, Studio 100
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117153
-#EXTINF:-1, Videolina
-http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117154
-#EXTINF:-1, Dazn 3
+#EXTINF:-1, group-title="Lista_1", Dazn 3
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117055
-#EXTINF:-1, Dazn 4
+#EXTINF:-1, group-title="Lista_1", Dazn 4
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117056
-#EXTINF:-1, Dazn 5
+#EXTINF:-1, group-title="Lista_1", Dazn 5
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117057
+#EXTINF:-1, group-title="Lista_1", Milan Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117058
+#EXTINF:-1, group-title="Lista_1", Inter Tv
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117059
+#EXTINF:-1, group-title="Lista_1", Torino Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117060
+#EXTINF:-1, group-title="Lista_1", Roma Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117061
+#EXTINF:-1, group-title="Lista_1", Lazio Style Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117062
+#EXTINF:-1, group-title="Lista_1", Calcio Napoli 21
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117063
+#EXTINF:-1, group-title="Lista_1", Eleven Sport 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117064
+#EXTINF:-1, group-title="Lista_1", Eleven Sport 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117065
+#EXTINF:-1, group-title="Lista_1", Eleven Sport 3
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117066
+#EXTINF:-1, group-title="Lista_1", Eleven Sport 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117067
+#EXTINF:-1, group-title="Lista_1", Rai News
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117068
+#EXTINF:-1, group-title="Lista_1", Tgcom
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117069
+#EXTINF:-1, group-title="Lista_1", Tg Norma 24
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117070
+#EXTINF:-1, group-title="Lista_1", Sky Tg24
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117071
+#EXTINF:-1, group-title="Lista_1", Disney Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117072
+#EXTINF:-1, group-title="Lista_1", Disney Junior
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117073
+#EXTINF:-1, group-title="Lista_1", Cartoon Network
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117074
+#EXTINF:-1, group-title="Lista_1", Nick Junior
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117075
+#EXTINF:-1, group-title="Lista_1", Boomerang
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117076
+#EXTINF:-1, group-title="Lista_1", Cartoonito
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117077
+#EXTINF:-1, group-title="Lista_1", Nickelodeon
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117078
+#EXTINF:-1, group-title="Lista_1", Super
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117079
+#EXTINF:-1, group-title="Lista_1", Dea Junior
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117080
+#EXTINF:-1, group-title="Lista_1", Dea Kids
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117081
+#EXTINF:-1, group-title="Lista_1", Rai Gulp
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117082
+#EXTINF:-1, group-title="Lista_1", Rai YoYo
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117083
+#EXTINF:-1, group-title="Lista_1", Boing
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117084
+#EXTINF:-1, group-title="Lista_1", K2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117085
+#EXTINF:-1, group-title="Lista_1", Manga
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117086
+#EXTINF:-1, group-title="Lista_1", TeenNick
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117087
+#EXTINF:-1, group-title="Lista_1", Baby tv
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117088
+#EXTINF:-1, group-title="Lista_1", Peppa Pig Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117089
+#EXTINF:-1, group-title="Lista_1", Braccio Di ferro 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117090
+#EXTINF:-1, group-title="Lista_1", Braccio di Ferro 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117091
+#EXTINF:-1, group-title="Lista_1", Booba
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117092
+#EXTINF:-1, group-title="Lista_1", Dragon Ball 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117093
+#EXTINF:-1, group-title="Lista_1", Dragon Ball 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117094
+#EXTINF:-1, group-title="Lista_1", Dragon Ball 3
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117095
+#EXTINF:-1, group-title="Lista_1", Dragon Ball 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117096
+#EXTINF:-1, group-title="Lista_1", Paperino
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117097
+#EXTINF:-1, group-title="Lista_1", Peppa Pig 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117098
+#EXTINF:-1, group-title="Lista_1", Ricky Zoom
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117099
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117100
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117101
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 3
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117102
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117103
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 5
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117104
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 6
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117105
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 7
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117106
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 8
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117107
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 9
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117108
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 10
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117109
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 11
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117110
+#EXTINF:-1, group-title="Lista_1", PrimaFila Live 12
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117111
+#EXTINF:-1, group-title="Lista_1", Tema Cinema hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117112
+#EXTINF:-1, group-title="Lista_1", Tema Avventura hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117113
+#EXTINF:-1, group-title="Lista_1", Tema Azione hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117114
+#EXTINF:-1, group-title="Lista_1", Tema Commedia hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117115
+#EXTINF:-1, group-title="Lista_1", Tema Guerra hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117116
+#EXTINF:-1, group-title="Lista_1", Tema Romantico hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117117
+#EXTINF:-1, group-title="Lista_1", Tema Thriller hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117118
+#EXTINF:-1, group-title="Lista_1", GRANDE FRATELLO VIP DIRETTA  1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117119
+#EXTINF:-1, group-title="Lista_1", GRANDE FRATELLO VIP DIRETTA  2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117120
+#EXTINF:-1, group-title="Lista_1", VHI
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117121
+#EXTINF:-1, group-title="Lista_1", MTV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117122
+#EXTINF:-1, group-title="Lista_1", RADIO PETERPAN
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117123
+#EXTINF:-1, group-title="Lista_1", RADIO ZETA
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117124
+#EXTINF:-1, group-title="Lista_1", SKY MTv Music
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117125
+#EXTINF:-1, group-title="Lista_1", M2O
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117126
+#EXTINF:-1, group-title="Lista_1", DEEJAY TV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117127
+#EXTINF:-1, group-title="Lista_1", FM ITALIA
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117128
+#EXTINF:-1, group-title="Lista_1", OTTO FM Tv
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117129
+#EXTINF:-1, group-title="Lista_1", Prima TV Sicilia
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117130
+#EXTINF:-1, group-title="Lista_1", Radio Italia Vision
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117131
+#EXTINF:-1, group-title="Lista_1", Radio BRUNO
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117132
+#EXTINF:-1, group-title="Lista_1", RADIO Capital
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117133
+#EXTINF:-1, group-title="Lista_1", Radio Taormina
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117134
+#EXTINF:-1, group-title="Lista_1", Radio FRECCIA
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117135
+#EXTINF:-1, group-title="Lista_1", RDS Social TV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117136
+#EXTINF:-1, group-title="Lista_1", RADIO Lombardia
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117137
+#EXTINF:-1, group-title="Lista_1", Antena Sud Puglia
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117138
+#EXTINF:-1, group-title="Lista_1", Esperia TV 18 Calabria
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117139
+#EXTINF:-1, group-title="Lista_1", Antena Sud
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117140
+#EXTINF:-1, group-title="Lista_1", Italia 2 TV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117141
+#EXTINF:-1, group-title="Lista_1", Telearena
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117142
+#EXTINF:-1, group-title="Lista_1", Super J TV Teramo
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117143
+#EXTINF:-1, group-title="Lista_1", Sophia TV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117144
+#EXTINF:-1, group-title="Lista_1", Senato della Repubblica
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117145
+#EXTINF:-1, group-title="Lista_1", Sardegna Uno
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117146
+#EXTINF:-1, group-title="Lista_1", RMM Marche
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117147
+#EXTINF:-1, group-title="Lista_1", Gold Tv Roma
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117148
+#EXTINF:-1, group-title="Lista_1", History Lab
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117149
+#EXTINF:-1, group-title="Lista_1", Icaro TV Rimini
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117150
+#EXTINF:-1, group-title="Lista_1", Antenna Tre
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117151
+#EXTINF:-1, group-title="Lista_1", Canali 21 Campania
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117152
+#EXTINF:-1, group-title="Lista_1", Studio 100
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117153
+#EXTINF:-1, group-title="Lista_1", Videolina
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117154
 #EXTINF:-1, +++++ Lista 2 +++++
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/00000
 #EXTINF:-1, +++++++++++++++++++
