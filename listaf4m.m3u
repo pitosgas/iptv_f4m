@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="TV Cabo",TVI
-
-
 #EXTINF:-1, group-title="Lista_1", Rai 1
 http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116953
 #EXTINF:-1, group-title="Lista_1", Rai 2
