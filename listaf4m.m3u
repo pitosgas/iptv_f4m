@@ -1070,3 +1070,737 @@ http://ip.mooniptv.cz:80/307211117167/307211117167/161897
 http://ip.mooniptv.cz:80/307211117167/307211117167/161896
 #EXTINF:-1, group-title="Lista_4",Animal Planet
 http://ip.mooniptv.cz:80/307211117167/307211117167/161895
+
+
+
+
+#EXTINF:-1 tvg-ID="raiuno.it" tvg-name="IT: RAI1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56000
+#EXTINF:-1 tvg-ID="raidue.it" tvg-name="IT: RAI 2 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI 2 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56001
+#EXTINF:-1 tvg-ID="raitre.it" tvg-name="IT: RAI 3 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI 3 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56002
+#EXTINF:-1 tvg-ID="rai4.it" tvg-name="IT: RAI 4 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI 4 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56003
+#EXTINF:-1 tvg-ID="rai5.it" tvg-name="IT: RAI 5 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI 5 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56004
+#EXTINF:-1 tvg-ID="raiscuola.it" tvg-name="IT: RAI SCUOLA FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI SCUOLA FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56005
+#EXTINF:-1 tvg-ID="raistoria.it" tvg-name="IT: RAI STORIA FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI STORIA FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56006
+#EXTINF:-1 tvg-ID="raiyoyo.it" tvg-name="IT: RAI YOYO FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI YOYO FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56007
+#EXTINF:-1 tvg-ID="raigulp.it" tvg-name="IT: RAI GULP FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI GULP FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56008
+#EXTINF:-1 tvg-ID="raisport.it" tvg-name="IT: RAI SPORT FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI SPORT FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56009
+#EXTINF:-1 tvg-ID="raipremium.it" tvg-name="IT: RAI PREMIUM FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI PREMIUM FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56010
+#EXTINF:-1 tvg-ID="rainews.it" tvg-name="IT: RAI NEWS 24 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI NEWS 24 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56011
+#EXTINF:-1 tvg-ID="raimovie.it" tvg-name="IT: RAI MOVIE FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RAI MOVIE FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56012
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="IT: RETE 4 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RETE 4 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56013
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="IT: CANALE 5 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: CANALE 5 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56014
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="IT: ITALIA 1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: ITALIA 1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56015
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="IT: LA 7 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: LA 7 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56016
+#EXTINF:-1 tvg-ID="" tvg-name="IT: LA 8 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: LA 8 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56017
+#EXTINF:-1 tvg-ID="nove.it" tvg-name="IT: NOVE FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: NOVE FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56018
+#EXTINF:-1 tvg-ID="cielo.it" tvg-name="IT: CIELO FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: CIELO FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56019
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RSI LA 1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RSI LA 1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56020
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RSI LA 2 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RSI LA 2 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56021
+#EXTINF:-1 tvg-ID="iris.it" tvg-name="IT: IRIS" tvg-logo="" group-title="EU ITALIA FHD",IT: IRIS
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56022
+#EXTINF:-1 tvg-ID="paramountchannel.it" tvg-name="IT: PARAMOUNT CHANNEL" tvg-logo="" group-title="EU ITALIA FHD",IT: PARAMOUNT CHANNEL
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56023
+#EXTINF:-1 tvg-ID="skycinemauno.it" tvg-name="IT: SKY CINEMA UNO FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA UNO FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56024
+#EXTINF:-1 tvg-ID="skycinemadue.it" tvg-name="IT: SKY CINEMA DUE FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA DUE FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56025
+#EXTINF:-1 tvg-ID="skycinemacollection.it" tvg-name="IT: SKY CINEMA COLLECTION FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA COLLECTION FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56026
+#EXTINF:-1 tvg-ID="skycinemaaction.it" tvg-name="IT: SKY CINEMA FAMILY FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA FAMILY FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56027
+#EXTINF:-1 tvg-ID="skycinemaaction.it" tvg-name="IT: SKY CINEMA ACTION FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA ACTION FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56028
+#EXTINF:-1 tvg-ID="skycinemasuspense.it" tvg-name="IT: SKY CINEMA SUSPENCE FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA SUSPENCE FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56029
+#EXTINF:-1 tvg-ID="skycinemaromance.it" tvg-name="IT: SKY CINEMA ROMANCE FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA ROMANCE FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56030
+#EXTINF:-1 tvg-ID="skycinemadrama.it" tvg-name="IT: SKY CINEMA DRAMA FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA DRAMA FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56031
+#EXTINF:-1 tvg-ID="skycinemadrama.it" tvg-name="IT: SKY CINEMA COMEDY FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA COMEDY FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56032
+#EXTINF:-1 tvg-ID="skycinemaunoplus24.it" tvg-name="IT: SKY CINEMA UNO 24 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA UNO 24 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56033
+#EXTINF:-1 tvg-ID="skycinemadueplus24.it" tvg-name="IT: SKY CINEMA DUE 24 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CINEMA DUE 24 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56034
+#EXTINF:-1 tvg-ID="skyuno.it" tvg-name="IT: SKY UNO FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY UNO FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56035
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY UNO +1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY UNO +1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56036
+#EXTINF:-1 tvg-ID="skyatlantic.it" tvg-name="IT: SKY ATLANTIC FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY ATLANTIC FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56037
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY ATLANTIC +1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY ATLANTIC +1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56038
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY MTV FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY MTV FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56039
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 24 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT 24 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56040
+#EXTINF:-1 tvg-ID="skysportuno.it" tvg-name="IT: SKY SPORT UNO FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT UNO FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56041
+#EXTINF:-1 tvg-ID="skysportfootball.it" tvg-name="IT: SKY SPORT FOOTBALL FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT FOOTBALL FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56042
+#EXTINF:-1 tvg-ID="skysportarena.it" tvg-name="IT: SKY SPORT ARENA FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT ARENA FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56043
+#EXTINF:-1 tvg-ID="skysportnba.it" tvg-name="IT: SKY SPORT NBA FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT NBA FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56044
+#EXTINF:-1 tvg-ID="skycinemacollection.it" tvg-name="IT: SKY SPORT COLLECTION FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT COLLECTION FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56045
+#EXTINF:-1 tvg-ID="skysportmotogp.it" tvg-name="IT: SKY SPORT MOTOGP FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT MOTOGP FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56046
+#EXTINF:-1 tvg-ID="skysportf1.it" tvg-name="IT: SKY SPORT F1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT F1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56047
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY BIKE CHANNELL FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY BIKE CHANNELL FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56048
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY EUROSPORT 2 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY EUROSPORT 2 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56049
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SERIE A FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SERIE A FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56050
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 251 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT 251 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56051
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 252 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT 252 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56052
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 253 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT 253 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56053
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 254 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT 254 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56054
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 255 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT 255 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56055
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 256 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT 256 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56056
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 257 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY SPORT 257 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56057
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY MTV MUSIC FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY MTV MUSIC FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56058
+#EXTINF:-1 tvg-ID="premiumcinema.it" tvg-name="IT: PREMIUM CINEMA FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: PREMIUM CINEMA FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56059
+#EXTINF:-1 tvg-ID="premiumcinemacomedy.it" tvg-name="IT: PREMIUM CINEMA COMEDY FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: PREMIUM CINEMA COMEDY FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56060
+#EXTINF:-1 tvg-ID="premiumcinemaemotion.it" tvg-name="IT: PREMIUM CINEMA EMOTION FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: PREMIUM CINEMA EMOTION FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56061
+#EXTINF:-1 tvg-ID="premiumcinemaenergy.it" tvg-name="IT: PREMIUM CINEMA ENERGY FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: PREMIUM CINEMA ENERGY FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56062
+#EXTINF:-1 tvg-ID="premiumcinemaplus24.it" tvg-name="IT: PREMIUM CINEMA +24 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: PREMIUM CINEMA +24 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56063
+#EXTINF:-1 tvg-ID="" tvg-name="IT: VETRINA SIMPLE FILM AL CINEMA LIVE" tvg-logo="" group-title="EU ITALIA FHD",IT: VETRINA SIMPLE FILM AL CINEMA LIVE
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56064
+#EXTINF:-1 tvg-ID="" tvg-name="IT: VETRINA SIMPLE PRIMA FILA LIVE" tvg-logo="" group-title="EU ITALIA FHD",IT: VETRINA SIMPLE PRIMA FILA LIVE
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56065
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 1" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 1
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56066
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 2" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56067
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 3" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 3
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56068
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 4" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 4
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56069
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 5" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 5
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56070
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 6" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 6
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56071
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 7" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 7
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56072
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 8" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 8
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56073
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 9" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 9
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56074
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PRIMA FILA SIMPLE LIVE 10 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: PRIMA FILA SIMPLE LIVE 10 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56075
+#EXTINF:-1 tvg-ID="20mediaset.it" tvg-name="IT: 20 MEDIASET FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: 20 MEDIASET FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56076
+#EXTINF:-1 tvg-ID="" tvg-name="IT: GIALLO FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: GIALLO FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56077
+#EXTINF:-1 tvg-ID="realtime.it" tvg-name="IT: REALTIME FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: REALTIME FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56078
+#EXTINF:-1 tvg-ID="" tvg-name="IT: REALTIME +1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: REALTIME +1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56079
+#EXTINF:-1 tvg-ID="dmax.it" tvg-name="IT: DMAX FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: DMAX FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56080
+#EXTINF:-1 tvg-ID="motortrend.it" tvg-name="IT: MOTOR TREND FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MOTOR TREND FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56081
+#EXTINF:-1 tvg-ID="fox.it" tvg-name="IT: FOX FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: FOX FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56082
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FOX +1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: FOX +1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56083
+#EXTINF:-1 tvg-ID="foxlife.it" tvg-name="IT: FOX LIFE FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: FOX LIFE FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56084
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FOX LIFE +1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: FOX LIFE +1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56085
+#EXTINF:-1 tvg-ID="foxcrime.it" tvg-name="IT: FOX CRIME FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: FOX CRIME FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56086
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FOX CRIME +1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: FOX CRIME +1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56087
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FOX CRIME +2 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: FOX CRIME +2 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56088
+#EXTINF:-1 tvg-ID="blaze.it" tvg-name="IT: BLAZE FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: BLAZE FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56089
+#EXTINF:-1 tvg-ID="premiumaction.it" tvg-name="IT: PREMIUM ACTION FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: PREMIUM ACTION FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56090
+#EXTINF:-1 tvg-ID="premiumcrime.it" tvg-name="IT: PREMIUM CRIME FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: PREMIUM CRIME FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56091
+#EXTINF:-1 tvg-ID="premiumstories.it" tvg-name="IT: PREMIUM STORIES FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: PREMIUM STORIES FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56092
+#EXTINF:-1 tvg-ID="supertennis.it" tvg-name="IT: SUPER TENNIS FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SUPER TENNIS FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56093
+#EXTINF:-1 tvg-ID="eurosport.it" tvg-name="IT: EUROSPORT 1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: EUROSPORT 1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56094
+#EXTINF:-1 tvg-ID="eurosport2.it" tvg-name="IT: EUROSPORT 2 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: EUROSPORT 2 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56095
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SERIE A E B SPORT 209 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: DAZN SERIE A E B SPORT 209 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56096
+#EXTINF:-1 tvg-ID="" tvg-name="IT: ELEVEN SPORT 1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: ELEVEN SPORT 1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56097
+#EXTINF:-1 tvg-ID="" tvg-name="IT: ELEVEN SPORT 2 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: ELEVEN SPORT 2 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56098
+#EXTINF:-1 tvg-ID="" tvg-name="IT: ELEVEN SPORT 3 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: ELEVEN SPORT 3 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56099
+#EXTINF:-1 tvg-ID="" tvg-name="IT: MY SPORTS 1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MY SPORTS 1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56100
+#EXTINF:-1 tvg-ID="" tvg-name="IT: MY SPORTS 2 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MY SPORTS 2 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56101
+#EXTINF:-1 tvg-ID="" tvg-name="IT: MY SPORTS 3 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MY SPORTS 3 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56102
+#EXTINF:-1 tvg-ID="" tvg-name="IT: MY SPORTS 4 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MY SPORTS 4 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56103
+#EXTINF:-1 tvg-ID="" tvg-name="IT: MY SPORTS 5 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MY SPORTS 5 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56104
+#EXTINF:-1 tvg-ID="" tvg-name="IT: MY SPORTS 6 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MY SPORTS 6 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56105
+#EXTINF:-1 tvg-ID="" tvg-name="IT: MY SPORTS 7 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MY SPORTS 7 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56106
+#EXTINF:-1 tvg-ID="" tvg-name="IT: MY SPORTS 8 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MY SPORTS 8 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56107
+#EXTINF:-1 tvg-ID="" tvg-name="IT: MY SPORTS 9 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MY SPORTS 9 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56108
+#EXTINF:-1 tvg-ID="natgeo.it" tvg-name="IT: NATIONAL GEO FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: NATIONAL GEO FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56109
+#EXTINF:-1 tvg-ID="" tvg-name="IT: NATIONAL GEO+1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: NATIONAL GEO+1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56110
+#EXTINF:-1 tvg-ID="natgeowild.it" tvg-name="IT: NAT GEO WILD FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: NAT GEO WILD FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56111
+#EXTINF:-1 tvg-ID="" tvg-name="IT: NAT GEO WILD +1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: NAT GEO WILD +1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56112
+#EXTINF:-1 tvg-ID="discoverychannel.it" tvg-name="IT: DISCOVERY FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: DISCOVERY FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56113
+#EXTINF:-1 tvg-ID="discoverychannel.it" tvg-name="IT: DISCOVERY+1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: DISCOVERY+1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56114
+#EXTINF:-1 tvg-ID="discoveryscience.it" tvg-name="IT: DISCOVERY SCI FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: DISCOVERY SCI FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56115
+#EXTINF:-1 tvg-ID="skyarte.it" tvg-name="IT: SKY ARTE FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY ARTE FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56116
+#EXTINF:-1 tvg-ID="crimeinvestigation.it" tvg-name="IT: CI CRIME INV FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: CI CRIME INV FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56117
+#EXTINF:-1 tvg-ID="" tvg-name="IT: GAMBERO ROSSO FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: GAMBERO ROSSO FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56118
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY CLASSICA FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY CLASSICA FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56119
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RADIOZETA FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RADIOZETA FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56120
+#EXTINF:-1 tvg-ID="rtl1025tv.it" tvg-name="IT: RTL 102.5 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RTL 102.5 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56121
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DISNEYCH FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: DISNEYCH FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56122
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DISNEYCH +1 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: DISNEYCH +1 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56123
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY HORSETV FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: SKY HORSETV FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56124
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RADIOZETA FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RADIOZETA FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56125
+#EXTINF:-1 tvg-ID="rtl1025tv.it" tvg-name="IT: RTL102.5 FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: RTL102.5 FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56126
+#EXTINF:-1 tvg-ID="romatv.it" tvg-name="IT: ROMA CHANNEL FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: ROMA CHANNEL FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56127
+#EXTINF:-1 tvg-ID="interchannel.it" tvg-name="IT: INTER CHANNEL FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: INTER CHANNEL FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56128
+#EXTINF:-1 tvg-ID="milantv.it" tvg-name="IT: MILAN CHANNEL FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: MILAN CHANNEL FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56129
+#EXTINF:-1 tvg-ID="babytv.it" tvg-name="IT: BABYTV FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: BABYTV FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56130
+#EXTINF:-1 tvg-ID="teennick.it" tvg-name="IT: TEENNICK FHD" tvg-logo="" group-title="EU ITALIA FHD",IT: TEENNICK FHD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56131
+#EXTINF:-1 tvg-ID="" tvg-name="===== ITALIA HD =====" tvg-logo="" group-title="EU ITALIA HD",===== ITALIA HD =====
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56132
+#EXTINF:-1 tvg-ID="" tvg-name="CORONA VIRUS INFO" tvg-logo="http://www.vodkom.com:25461/Logo/corona.png" group-title="EU ITALIA HD",CORONA VIRUS INFO
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/67314
+#EXTINF:-1 tvg-ID="raiuno.it" tvg-name="IT: RAI 1 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_213F_3070_13E_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RAI 1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56133
+#EXTINF:-1 tvg-ID="raidue.it" tvg-name="IT: RAI 2 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_2140_3070_13E_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RAI 2 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56134
+#EXTINF:-1 tvg-ID="raitre.it" tvg-name="IT: RAI 3 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_2141_3070_13E_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RAI 3 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56135
+#EXTINF:-1 tvg-ID="raiscuola.it" tvg-name="IT: RAI SCUOLA HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_4533_30D4_13E_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RAI SCUOLA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56136
+#EXTINF:-1 tvg-ID="raistoria.it" tvg-name="IT: RAI STORIA HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_D4E_1450_13E_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RAI STORIA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56137
+#EXTINF:-1 tvg-ID="raisport.it" tvg-name="IT: RAI SPORT HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_CE7_1518_13E_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RAI SPORT HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56138
+#EXTINF:-1 tvg-ID="raimovie.it" tvg-name="IT: RAI MOVIE HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_4536_30D4_13E_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RAI MOVIE HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56139
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="IT: RETE 4 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_3_1770_110_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RETE 4 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56140
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="IT: CANALE 5 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_2_1770_110_820000_0_0_0.png" group-title="EU ITALIA HD",IT: CANALE 5 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56141
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="IT: ITALIA 1 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_1_1770_110_820000_0_0_0.png" group-title="EU ITALIA HD",IT: ITALIA 1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56142
+#EXTINF:-1 tvg-ID="cielo.it" tvg-name="IT: CIELO HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_2B66_19C8_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: CIELO HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56143
+#EXTINF:-1 tvg-ID="RSI LA 1 HD CH" tvg-name="IT: RSI LA1 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_36E3_6A4_13E_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RSI LA1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56144
+#EXTINF:-1 tvg-ID="RSI LA 2 HD CH" tvg-name="IT: RSI LA2 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_36E4_6A4_13E_820000_0_0_0.png" group-title="EU ITALIA HD",IT: RSI LA2 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56145
+#EXTINF:-1 tvg-ID="skycinemauno.it" tvg-name="IT: SKY CINEMA UNO HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_2B5D_19C8_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: SKY CINEMA UNO HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56146
+#EXTINF:-1 tvg-ID="skycinemadue.it" tvg-name="IT: SKY CINEMA DUE HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY CINEMA DUE HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56147
+#EXTINF:-1 tvg-ID="skycinemacollection.it" tvg-name="IT: SKY CINEMA COLLECTION HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY CINEMA COLLECTION HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56148
+#EXTINF:-1 tvg-ID="skycinemafamily.it" tvg-name="IT: SKY CINEMA FAMILY HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_2B61_19C8_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: SKY CINEMA FAMILY HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56149
+#EXTINF:-1 tvg-ID="skycinemaaction.it" tvg-name="IT: SKY CINEMA ACTION HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY CINEMA ACTION HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56150
+#EXTINF:-1 tvg-ID="skycinemaromance.it" tvg-name="IT: SKY CINEMA SUSPENCE HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY CINEMA SUSPENCE HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56151
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY CINEMA ROMANCE HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY CINEMA ROMANCE HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56152
+#EXTINF:-1 tvg-ID="skycinemadrama.it" tvg-name="IT: SKY CINEMA DRAMA HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY CINEMA DRAMA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56153
+#EXTINF:-1 tvg-ID="skycinemacomedy.it" tvg-name="IT: SKY CINEMA COMEDY HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY CINEMA COMEDY HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56154
+#EXTINF:-1 tvg-ID="skycinemaunoplus24.it" tvg-name="IT: SKY CINEMA UNO +24 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY CINEMA UNO +24 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56155
+#EXTINF:-1 tvg-ID="skycinemadueplus24.it" tvg-name="IT: SKY CINEMA DUE +24 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY CINEMA DUE +24 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56156
+#EXTINF:-1 tvg-ID="classica.it" tvg-name="IT: SKY CLASSICA HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_2B18_1900_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: SKY CLASSICA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56157
+#EXTINF:-1 tvg-ID="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT 24 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56158
+#EXTINF:-1 tvg-ID="skysportuno.it" tvg-name="IT: SKY SPORT UNO HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT UNO HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56159
+#EXTINF:-1 tvg-ID="skysportfootball.it" tvg-name="IT: SKY SPORT FOOTBALL HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT FOOTBALL HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56160
+#EXTINF:-1 tvg-ID="skysportarena.it" tvg-name="IT: SKY SPORT ARENA HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT ARENA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56161
+#EXTINF:-1 tvg-ID="skysportnba.it" tvg-name="IT: SKY SPORT NBA HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT NBA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56162
+#EXTINF:-1 tvg-ID="skysportcollection.it" tvg-name="IT: SKY SPORT COLLECTION HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT COLLECTION HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56163
+#EXTINF:-1 tvg-ID="skysportmotogp.it" tvg-name="IT: SKY SPORT MOTO GP HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT MOTO GP HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56164
+#EXTINF:-1 tvg-ID="skysportf1.it" tvg-name="IT: SKY SPORT F1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT F1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56165
+#EXTINF:-1 tvg-ID="bikechannel.it" tvg-name="IT: SKY BIKE CHANNELL HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_1091_2198_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: SKY BIKE CHANNELL HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56166
+#EXTINF:-1 tvg-ID="skysportseriea.it" tvg-name="IT: SKY SERIE A HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SERIE A HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56167
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 251 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT 251 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56168
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 252 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT 252 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56169
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 253 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT 253 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56170
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 254 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT 254 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56171
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 255 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT 255 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56172
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 256 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT 256 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56173
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY SPORT 257 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY SPORT 257 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56174
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY HORSETV HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY HORSETV HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56175
+#EXTINF:-1 tvg-ID="premiumcinema.it" tvg-name="IT: PREMIUM CINEMA HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_2DA1_2260_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: PREMIUM CINEMA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56176
+#EXTINF:-1 tvg-ID="premiumcinemacomedy.it" tvg-name="IT: PREMIUM CINEMA COMEDY HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_2DA4_2260_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: PREMIUM CINEMA COMEDY HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56177
+#EXTINF:-1 tvg-ID="premiumcinemaemotion.it" tvg-name="IT: PREMIUM CINEMA EMOTION HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_2DA5_2260_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: PREMIUM CINEMA EMOTION HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56178
+#EXTINF:-1 tvg-ID="premiumcinemaenergy.it" tvg-name="IT: PREMIUM CINEMA ENERGY HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_2DA3_2260_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: PREMIUM CINEMA ENERGY HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56179
+#EXTINF:-1 tvg-ID="skyuno.it" tvg-name="IT: SKY UNO HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_1_2DC6_1A2C_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: SKY UNO HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56180
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY UNO +1 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_37BA_14B4_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: SKY UNO +1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56181
+#EXTINF:-1 tvg-ID="skyatlantic.it" tvg-name="IT: SKY ATLANTIC HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_3792_2008_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: SKY ATLANTIC HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56182
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SKY ATLANTIC +1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SKY ATLANTIC +1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56183
+#EXTINF:-1 tvg-ID="" tvg-name="IT: VETRINA DAZN HD" tvg-logo="" group-title="EU ITALIA HD",IT: VETRINA DAZN HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56184
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 1 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_1E61_15E0_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: DAZN 1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56185
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 2 HD" tvg-logo="http://www.vodkom.com:25461/images/hotbirdpicon/1_0_19_1E62_15E0_FBFF_820000_0_0_0.png" group-title="EU ITALIA HD",IT: DAZN 2 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56186
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 3 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 3 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56187
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 4 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 4 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56188
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 5 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 5 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56189
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 6 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 6 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56190
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 7 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 7 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56191
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 8 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 8 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56192
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 9 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 9 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56193
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 10 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 10 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56194
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 11 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 11 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56195
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 12 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 12 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56196
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 13 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 13 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56197
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 14 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 14 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56198
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 15 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 15 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56199
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 16 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 16 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56200
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 2 HD FORNITORE 2" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 2 HD FORNITORE 2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56201
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 3 HD FORNITORE 2" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 3 HD FORNITORE 2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56202
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 4 HD FORNITORE 2" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 4 HD FORNITORE 2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56203
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 5 HD FORNITORE 2" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN 5 HD FORNITORE 2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56204
+#EXTINF:-1 tvg-ID="fox.it" tvg-name="IT: FOX HD" tvg-logo="" group-title="EU ITALIA HD",IT: FOX HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56205
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FOX+1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FOX+1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56206
+#EXTINF:-1 tvg-ID="foxlife.it" tvg-name="IT: FOX LIFE HD" tvg-logo="" group-title="EU ITALIA HD",IT: FOX LIFE HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56207
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FOX LIFE+1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FOX LIFE+1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56208
+#EXTINF:-1 tvg-ID="foxcrime.it" tvg-name="IT: FOX CRIME HD" tvg-logo="" group-title="EU ITALIA HD",IT: FOX CRIME HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56209
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FOX CRIME+1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FOX CRIME+1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56210
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FOX CRIME+2 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FOX CRIME+2 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56211
+#EXTINF:-1 tvg-ID="blaze.it" tvg-name="IT: BLAZE HD" tvg-logo="" group-title="EU ITALIA HD",IT: BLAZE HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56212
+#EXTINF:-1 tvg-ID="premiumaction.it" tvg-name="IT: PREMIUM ACTION HD" tvg-logo="" group-title="EU ITALIA HD",IT: PREMIUM ACTION HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56213
+#EXTINF:-1 tvg-ID="premiumcrime.it" tvg-name="IT: PREMIUM CRIME HD" tvg-logo="" group-title="EU ITALIA HD",IT: PREMIUM CRIME HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56214
+#EXTINF:-1 tvg-ID="premiumstories.it" tvg-name="IT: PREMIUM STORIES HD" tvg-logo="" group-title="EU ITALIA HD",IT: PREMIUM STORIES HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56215
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56216
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 2 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 2 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56217
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 3 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 3 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56218
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 4 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 4 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56219
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 5 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 5 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56220
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 6 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 6 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56221
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 7 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 7 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56222
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 8 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 8 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56223
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 9 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 9 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56224
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FILM AL CINEMA SIMPLE 10 HD" tvg-logo="" group-title="EU ITALIA HD",IT: FILM AL CINEMA SIMPLE 10 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56225
+#EXTINF:-1 tvg-ID="natgeo.it" tvg-name="IT: NATIONAL GEO HD" tvg-logo="" group-title="EU ITALIA HD",IT: NATIONAL GEO HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56226
+#EXTINF:-1 tvg-ID="" tvg-name="IT: NATIONAL GEO+1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: NATIONAL GEO+1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56227
+#EXTINF:-1 tvg-ID="natgeowild.it" tvg-name="IT: NAT GEO WILD HD" tvg-logo="" group-title="EU ITALIA HD",IT: NAT GEO WILD HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56228
+#EXTINF:-1 tvg-ID="" tvg-name="IT: NATGEOWILD+1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: NATGEOWILD+1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56229
+#EXTINF:-1 tvg-ID="discoverychannel.it" tvg-name="IT: DISCOVERY HD" tvg-logo="" group-title="EU ITALIA HD",IT: DISCOVERY HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56230
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DISCOVERY+1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DISCOVERY+1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56231
+#EXTINF:-1 tvg-ID="discoveryscience.it" tvg-name="IT: DISCOVERY SCI HD" tvg-logo="" group-title="EU ITALIA HD",IT: DISCOVERY SCI HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56232
+#EXTINF:-1 tvg-ID="crimeinvestigation.it" tvg-name="IT: CI CRIME INV HD" tvg-logo="" group-title="EU ITALIA HD",IT: CI CRIME INV HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56233
+#EXTINF:-1 tvg-ID="sportitalia.it" tvg-name="IT: SPORT ITALIA SOLO MOTORI HD" tvg-logo="" group-title="EU ITALIA HD",IT: SPORT ITALIA SOLO MOTORI HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56234
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SPORT ITALIA SOLO CALCIO HD" tvg-logo="" group-title="EU ITALIA HD",IT: SPORT ITALIA SOLO CALCIO HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56235
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SPORT ITALIA LIVE24 HD" tvg-logo="" group-title="EU ITALIA HD",IT: SPORT ITALIA LIVE24 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56236
+#EXTINF:-1 tvg-ID="sportitalia.it" tvg-name="IT: SPORT ITALIA HD" tvg-logo="" group-title="EU ITALIA HD",IT: SPORT ITALIA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56237
+#EXTINF:-1 tvg-ID="" tvg-name="IT: VETRINALEGAPRO" tvg-logo="" group-title="EU ITALIA HD",IT: VETRINALEGAPRO
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56238
+#EXTINF:-1 tvg-ID="cacciapesca.it" tvg-name="IT: PESCA E CACCIA HD" tvg-logo="" group-title="EU ITALIA HD",IT: PESCA E CACCIA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56239
+#EXTINF:-1 tvg-ID="cacciapesca.it" tvg-name="IT: CACCIA E PESCA HD" tvg-logo="" group-title="EU ITALIA HD",IT: CACCIA E PESCA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56240
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SERIE A EBSPORT209 HD" tvg-logo="" group-title="EU ITALIA HD",IT: DAZN SERIE A EBSPORT209 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56241
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RADIO ITALIA TV HD" tvg-logo="" group-title="EU ITALIA HD",IT: RADIO ITALIA TV HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56242
+#EXTINF:-1 tvg-ID="vh1.it" tvg-name="IT: VH1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: VH1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56243
+#EXTINF:-1 tvg-ID="boing.it" tvg-name="IT: BOING HD" tvg-logo="" group-title="EU ITALIA HD",IT: BOING HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56244
+#EXTINF:-1 tvg-ID="cartoonito.it" tvg-name="IT: CARTONITO HD" tvg-logo="" group-title="EU ITALIA HD",IT: CARTONITO HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56245
+#EXTINF:-1 tvg-ID="super.it" tvg-name="IT: BOOMERANG HD" tvg-logo="" group-title="EU ITALIA HD",IT: BOOMERANG HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56246
+#EXTINF:-1 tvg-ID="k2.it" tvg-name="IT: K2 HD" tvg-logo="" group-title="EU ITALIA HD",IT: K2 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56247
+#EXTINF:-1 tvg-ID="boomerang.it" tvg-name="IT: BOOMERANG HD" tvg-logo="" group-title="EU ITALIA HD",IT: BOOMERANG HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56248
+#EXTINF:-1 tvg-ID="" tvg-name="IT: BOOMERANG+1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: BOOMERANG+1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56249
+#EXTINF:-1 tvg-ID="nickelodeon.it" tvg-name="IT: NICKELODEON HD" tvg-logo="" group-title="EU ITALIA HD",IT: NICKELODEON HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56250
+#EXTINF:-1 tvg-ID="nickelodeon.it" tvg-name="IT: NICKELODEON+1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: NICKELODEON+1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56251
+#EXTINF:-1 tvg-ID="nickjunior.it" tvg-name="IT: NICKJR HD" tvg-logo="" group-title="EU ITALIA HD",IT: NICKJR HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56252
+#EXTINF:-1 tvg-ID="" tvg-name="IT: NICKJR+1 HD" tvg-logo="" group-title="EU ITALIA HD",IT: NICKJR+1 HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56253
+#EXTINF:-1 tvg-ID="deajunior.it" tvg-name="IT: DEAJUNIOR HD" tvg-logo="" group-title="EU ITALIA HD",IT: DEAJUNIOR HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56254
+#EXTINF:-1 tvg-ID="manga.it" tvg-name="IT: MAN-GA HD" tvg-logo="" group-title="EU ITALIA HD",IT: MAN-GA HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56255
+#EXTINF:-1 tvg-ID="torinochannel.it" tvg-name="IT: TORINO CHANNEL HD" tvg-logo="" group-title="EU ITALIA HD",IT: TORINO CHANNEL HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56256
+#EXTINF:-1 tvg-ID="laziostylechannel.it" tvg-name="IT: LAZIO CHANNEL HD" tvg-logo="" group-title="EU ITALIA HD",IT: LAZIO CHANNEL HD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56257
+#EXTINF:-1 tvg-ID="" tvg-name="===== IT: ITALIA SD =====" tvg-logo="" group-title="EU ITALIA SD",===== IT: ITALIA SD =====
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56258
+#EXTINF:-1 tvg-ID="raiuno.it" tvg-name="IT: Rai1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Rai1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56259
+#EXTINF:-1 tvg-ID="raidue.it" tvg-name="IT: Rai2 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Rai2 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56260
+#EXTINF:-1 tvg-ID="raitre.it" tvg-name="IT: Rai3 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Rai3 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56261
+#EXTINF:-1 tvg-ID="raimovie.it" tvg-name="IT: Rai Movie SD" tvg-logo="" group-title="EU ITALIA SD",IT: Rai Movie SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56262
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="IT: Rete4 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Rete4 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56263
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="IT: Canale5 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Canale5 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56264
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="IT: Italia1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Italia1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56265
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="IT: La7 SD" tvg-logo="" group-title="EU ITALIA SD",IT: La7 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56266
+#EXTINF:-1 tvg-ID="tv8.it" tvg-name="IT: Tv8 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Tv8 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56267
+#EXTINF:-1 tvg-ID="nove.it" tvg-name="IT: Nove SD" tvg-logo="" group-title="EU ITALIA SD",IT: Nove SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56268
+#EXTINF:-1 tvg-ID="cielo.it" tvg-name="IT: Cielo SD" tvg-logo="" group-title="EU ITALIA SD",IT: Cielo SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56269
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RSILa1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: RSILa1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56270
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RSILa2 SD" tvg-logo="" group-title="EU ITALIA SD",IT: RSILa2 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56271
+#EXTINF:-1 tvg-ID="skycinemauno.it" tvg-name="IT: Sky Cinema Uno SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Uno SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56272
+#EXTINF:-1 tvg-ID="skycinemadue.it" tvg-name="IT: Sky Cinema Due SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Due SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56273
+#EXTINF:-1 tvg-ID="skycinemacollection.it" tvg-name="IT: Sky Cinema Collection SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Collection SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56274
+#EXTINF:-1 tvg-ID="skycinemafamily.it" tvg-name="IT: Sky Cinema Family SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Family SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56275
+#EXTINF:-1 tvg-ID="skycinemaaction.it" tvg-name="IT: Sky Cinema Action SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Action SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56276
+#EXTINF:-1 tvg-ID="skycinemasuspense.it" tvg-name="IT: Sky Cinema Suspence SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Suspence SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56277
+#EXTINF:-1 tvg-ID="skycinemaromance.it" tvg-name="IT: Sky Cinema Romance SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Romance SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56278
+#EXTINF:-1 tvg-ID="skycinemadrama.it" tvg-name="IT: Sky Cinema Drama SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Drama SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56279
+#EXTINF:-1 tvg-ID="skycinemacomedy.it" tvg-name="IT: Sky Cinema Comedy SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Comedy SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56280
+#EXTINF:-1 tvg-ID="skycinemaunoplus24.it" tvg-name="IT: Sky Cinema Uno+24 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Uno+24 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56281
+#EXTINF:-1 tvg-ID="skycinemadueplus24.it" tvg-name="IT: Sky Cinema Due+24 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Cinema Due+24 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56282
+#EXTINF:-1 tvg-ID="skycinemauno.it" tvg-name="IT: Sky Uno SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Uno SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56283
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Uno+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Uno+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56284
+#EXTINF:-1 tvg-ID="skyatlantic.it" tvg-name="IT: Sky Atlantic SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Atlantic SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56285
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Atlantic+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Atlantic+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56286
+#EXTINF:-1 tvg-ID="skysport24.it" tvg-name="IT: Sky Sport24 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport24 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56287
+#EXTINF:-1 tvg-ID="skysportuno.it" tvg-name="IT: Sky Sport Uno SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport Uno SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56288
+#EXTINF:-1 tvg-ID="skysportfootball.it" tvg-name="IT: Sky Sport Football SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport Football SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56289
+#EXTINF:-1 tvg-ID="skysportarena.it" tvg-name="IT: Sky Sport Arena SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport Arena SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56290
+#EXTINF:-1 tvg-ID="skysportnba.it" tvg-name="IT: Sky Sport NBA SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport NBA SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56291
+#EXTINF:-1 tvg-ID="skycinemacollection.it" tvg-name="IT: Sky Sport Collection SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport Collection SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56292
+#EXTINF:-1 tvg-ID="skysportmotogp.it" tvg-name="IT: Sky Sport MotoGP SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport MotoGP SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56293
+#EXTINF:-1 tvg-ID="skysportf1.it" tvg-name="IT: Sky Sport F1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport F1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56294
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Bike Channell SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Bike Channell SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56295
+#EXTINF:-1 tvg-ID="skysportseriea.it" tvg-name="IT: Sky Serie A SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Serie A SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56296
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport251 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport251 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56297
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport252 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport252 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56298
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport253 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport253 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56299
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport254 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport254 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56300
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport255 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport255 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56301
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport256 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport256 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56302
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport257 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Sport257 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56303
+#EXTINF:-1 tvg-ID="skytg24.it" tvg-name="IT: Sky Tg24 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky Tg24 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56304
+#EXTINF:-1 tvg-ID="cine34.it" tvg-name="IT: Cine34 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Cine34 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56305
+#EXTINF:-1 tvg-ID="dove.it" tvg-name="IT: DoveTV SD" tvg-logo="" group-title="EU ITALIA SD",IT: DoveTV SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56306
+#EXTINF:-1 tvg-ID="" tvg-name="IT: FishingTV SD" tvg-logo="" group-title="EU ITALIA SD",IT: FishingTV SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56307
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Fox SD" tvg-logo="" group-title="EU ITALIA SD",IT: Fox SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56308
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Fox+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Fox+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56309
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Fox Life SD" tvg-logo="" group-title="EU ITALIA SD",IT: Fox Life SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56310
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Fox Life+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Fox Life+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56311
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Fox Crime SD" tvg-logo="" group-title="EU ITALIA SD",IT: Fox Crime SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56312
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Fox Crime+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Fox Crime+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56313
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Fox Crime+2 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Fox Crime+2 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56314
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Blaze SD" tvg-logo="" group-title="EU ITALIA SD",IT: Blaze SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56315
+#EXTINF:-1 tvg-ID="" tvg-name="IT: National Geo SD" tvg-logo="" group-title="EU ITALIA SD",IT: National Geo SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56316
+#EXTINF:-1 tvg-ID="" tvg-name="IT: National Geo+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: National Geo+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56317
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Nat Geo Wild SD" tvg-logo="" group-title="EU ITALIA SD",IT: Nat Geo Wild SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56318
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Nat Geo Wild+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Nat Geo Wild+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56319
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Discovery SD" tvg-logo="" group-title="EU ITALIA SD",IT: Discovery SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56320
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Discovery+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Discovery+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56321
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Discovery Sci SD" tvg-logo="" group-title="EU ITALIA SD",IT: Discovery Sci SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56322
+#EXTINF:-1 tvg-ID="" tvg-name="IT: CI Crime Inv SD" tvg-logo="" group-title="EU ITALIA SD",IT: CI Crime Inv SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56323
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SERIEDPALERMO SD" tvg-logo="" group-title="EU ITALIA SD",IT: SERIEDPALERMO SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56324
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SERIEDFOGGIA SD" tvg-logo="" group-title="EU ITALIA SD",IT: SERIEDFOGGIA SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56325
+#EXTINF:-1 tvg-ID="" tvg-name="IT: LPC Albinoleffe SD" tvg-logo="" group-title="EU ITALIA SD",IT: LPC Albinoleffe SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56326
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky HorseTV SD" tvg-logo="" group-title="EU ITALIA SD",IT: Sky HorseTV SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56393
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn Serie A eBSport209 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Dazn Serie A eBSport209 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56394
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 1 SD Fornitore2" tvg-logo="" group-title="EU ITALIA SD",IT: Dazn 1 SD Fornitore2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56395
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 2 SD Fornitore2" tvg-logo="" group-title="EU ITALIA SD",IT: Dazn 2 SD Fornitore2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56396
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 3 SD Fornitore2" tvg-logo="" group-title="EU ITALIA SD",IT: Dazn 3 SD Fornitore2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56397
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn4 SD Fornitore2" tvg-logo="" group-title="EU ITALIA SD",IT: Dazn4 SD Fornitore2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56398
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn5 SD Fornitore2" tvg-logo="" group-title="EU ITALIA SD",IT: Dazn5 SD Fornitore2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56399
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn11 Fornitore 2" tvg-logo="" group-title="EU ITALIA SD",IT: Dazn11 Fornitore 2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56400
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn12 Fornitore 2" tvg-logo="" group-title="EU ITALIA SD",IT: Dazn12 Fornitore 2
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56401
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SkyArte SD" tvg-logo="" group-title="EU ITALIA SD",IT: SkyArte SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56402
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SkuClassica SD" tvg-logo="" group-title="EU ITALIA SD",IT: SkuClassica SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56403
+#EXTINF:-1 tvg-ID="" tvg-name="IT: AutomotoTV" tvg-logo="" group-title="EU ITALIA SD",IT: AutomotoTV
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56404
+#EXTINF:-1 tvg-ID="" tvg-name="IT: SERIEDMANTOVA" tvg-logo="" group-title="EU ITALIA SD",IT: SERIEDMANTOVA
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56405
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Civitanova" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Civitanova
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56406
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Latina" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Latina
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56407
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Milano" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Milano
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56408
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Modena" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Modena
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56409
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Monza" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Monza
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56410
+#EXTINF:-1 tvg-ID="" tvg-name="IT: VolleyPadova" tvg-logo="" group-title="EU ITALIA SD",IT: VolleyPadova
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56411
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Perugia" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Perugia
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56412
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Piacenza" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Piacenza
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56413
+#EXTINF:-1 tvg-ID="" tvg-name="IT: VolleyRavenna" tvg-logo="" group-title="EU ITALIA SD",IT: VolleyRavenna
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56414
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Sora" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Sora
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56415
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Trentino" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Trentino
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56416
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Verona" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Verona
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56417
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Volley Valentia" tvg-logo="" group-title="EU ITALIA SD",IT: Volley Valentia
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56418
+#EXTINF:-1 tvg-ID="" tvg-name="IT: TgCom24 SD" tvg-logo="" group-title="EU ITALIA SD",IT: TgCom24 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56419
+#EXTINF:-1 tvg-ID="" tvg-name="IT: TgNorba24 SD" tvg-logo="" group-title="EU ITALIA SD",IT: TgNorba24 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56420
+#EXTINF:-1 tvg-ID="" tvg-name="IT: PadrePioTV SD" tvg-logo="" group-title="EU ITALIA SD",IT: PadrePioTV SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56421
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DeAKids SD" tvg-logo="" group-title="EU ITALIA SD",IT: DeAKids SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56422
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DeAKids+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: DeAKids+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56423
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Frisbee SD" tvg-logo="" group-title="EU ITALIA SD",IT: Frisbee SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56424
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Pop SD" tvg-logo="" group-title="EU ITALIA SD",IT: Pop SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56425
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Disney Junior SD" tvg-logo="" group-title="EU ITALIA SD",IT: Disney Junior SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56426
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Disney Junior+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Disney Junior+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56427
+#EXTINF:-1 tvg-ID="cartoonnetwork.it" tvg-name="IT: Cartoon Network SD" tvg-logo="" group-title="EU ITALIA SD",IT: Cartoon Network SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56428
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Cartoon+1 SD" tvg-logo="" group-title="EU ITALIA SD",IT: Cartoon+1 SD
+http://sansat.net:25461/qMtsStr1Zc3ZykA/z6VBczCb6K/56429
