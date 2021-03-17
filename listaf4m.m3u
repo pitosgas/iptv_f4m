@@ -1,17 +1,631 @@
 #EXTM3U
-#EXTINF:-1,====PORTUGAL====
-http://62.4.21.70:8000/live/benani/benani/1747.ts
-#EXTINF:-1,Tvi_24_-_Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3606.ts
-#EXTINF:-1,Tvi_-_Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3607.ts
-#EXTINF:-1,Sport_TV_1_-_Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3619.ts
-#EXTINF:-1,Sic_Noticias_-_Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3579.ts
-#EXTINF:-1,Sic_Mulher_-_Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3580.ts
-#EXTINF:-1,Sic_Caras_-_Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3581.ts
-#EXTINF:-1,Sic_-_Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3577.ts
+#EXTINF:-1, +++++ Lista 1 +++++
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/00000
+#EXTINF:-1, +++++++++++++++++++
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/00000
+#EXTINF:-1, Rai 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116953
+#EXTINF:-1, Rai 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116954
+#EXTINF:-1, Rai 3
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116955
+#EXTINF:-1, Rete 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116956
+#EXTINF:-1, Canale 5
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116957
+#EXTINF:-1, Italia 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116958
+#EXTINF:-1, La 7
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116959
+#EXTINF:-1, Tv8 IT
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116960
+#EXTINF:-1, La7 D
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116961
+#EXTINF:-1, Nove
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116962
+#EXTINF:-1, Cine 34
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116963
+#EXTINF:-1, Dove
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116964
+#EXTINF:-1, Top Crime
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116965
+#EXTINF:-1, Mediaset 20
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116966
+#EXTINF:-1, Mediaset Extra
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116967
+#EXTINF:-1, La 5
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116968
+#EXTINF:-1, Iris
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116969
+#EXTINF:-1, Italia 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116970
+#EXTINF:-1, Real time
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116971
+#EXTINF:-1, Dmax
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116972
+#EXTINF:-1, Alice
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116973
+#EXTINF:-1, Rai Premium
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116974
+#EXTINF:-1, Rai Movie
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116975
+#EXTINF:-1, Rai Scuola
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116976
+#EXTINF:-1, Canale 7
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116977
+#EXTINF:-1, Rai 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116978
+#EXTINF:-1, Rai 5
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116979
+#EXTINF:-1, Paramount Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116980
+#EXTINF:-1, Giallo
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116981
+#EXTINF:-1, RSI LA 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116982
+#EXTINF:-1, RSI LA 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116983
+#EXTINF:-1, Sky Cinema Uno
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116984
+#EXTINF:-1, Sky Cinema uno 24
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116985
+#EXTINF:-1, Sky Cinema Due
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116986
+#EXTINF:-1, Sky Cinema Due 24
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116987
+#EXTINF:-1, Sky Cinema Collection
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116988
+#EXTINF:-1, Sky Cinema Family
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116989
+#EXTINF:-1, Sky Cinema Comedy
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116990
+#EXTINF:-1, Sky Cinema Action
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116991
+#EXTINF:-1, Sky Cinema Suspense
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116992
+#EXTINF:-1, Sky Cinema Romance
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116993
+#EXTINF:-1, Sky Cinema Drama
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116994
+#EXTINF:-1, Premium Cinema Uno
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116995
+#EXTINF:-1, Premium Cinema 24
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116996
+#EXTINF:-1, Premium Cinema Emotion
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116997
+#EXTINF:-1, Premium Cinema Comedy
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116998
+#EXTINF:-1, Premium Cinema Energy
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/116999
+#EXTINF:-1, Premium Cinema Action
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117000
+#EXTINF:-1, Premium Cinema Crime
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117001
+#EXTINF:-1, Premium Cinema Stories
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117002
+#EXTINF:-1, Sky Uno
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117003
+#EXTINF:-1, Sky Atlantic
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117004
+#EXTINF:-1, Sky Blaze
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117005
+#EXTINF:-1, Sky Lei
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117006
+#EXTINF:-1, Sky Fox
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117007
+#EXTINF:-1, Sky Fox Life
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117008
+#EXTINF:-1, Sky Fox Crime
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117009
+#EXTINF:-1, Comedy Central
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117010
+#EXTINF:-1, Sky Crime Investigation
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117011
+#EXTINF:-1, Sky Real Time
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117012
+#EXTINF:-1, Sky Cielo
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117013
+#EXTINF:-1, Sky Food Network
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117014
+#EXTINF:-1, Sky Laeffe
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117015
+#EXTINF:-1, Sky Dove
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117016
+#EXTINF:-1, Sky Gambero Rosso
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117017
+#EXTINF:-1, Sky Arte
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117018
+#EXTINF:-1, Sky Nat Geo
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117019
+#EXTINF:-1, Sky Nat Geo Wild
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117020
+#EXTINF:-1, Sky Discovery
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117021
+#EXTINF:-1, Sky Discovery Sci
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117022
+#EXTINF:-1, Focus
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117023
+#EXTINF:-1, Sky History
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117024
+#EXTINF:-1, Spike
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117025
+#EXTINF:-1, Italian Fishing tv
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117026
+#EXTINF:-1, Sky Caccia e Pesca
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117027
+#EXTINF:-1, Sky Pesca e Caccia
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117028
+#EXTINF:-1, Marco Polo
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117029
+#EXTINF:-1, Sky Sport 24
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117030
+#EXTINF:-1, Sky Sport Uno
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117031
+#EXTINF:-1, Sky Sport Football
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117032
+#EXTINF:-1, Sky Sport Collection
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117033
+#EXTINF:-1, Sky Sport Arena
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117034
+#EXTINF:-1, Rai Sport
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117035
+#EXTINF:-1, Sport Italia
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117036
+#EXTINF:-1, Rtv Sport
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117037
+#EXTINF:-1, Sky Sport NBA
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117038
+#EXTINF:-1, Super Tennis
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117039
+#EXTINF:-1, Eurosport 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117040
+#EXTINF:-1, Eurosport 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117041
+#EXTINF:-1, WWE wrestiling
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117042
+#EXTINF:-1, Sky Sport F1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117043
+#EXTINF:-1, Sky Moto Gp
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117044
+#EXTINF:-1, Bike Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117045
+#EXTINF:-1, Motor Trend
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117046
+#EXTINF:-1, Sky Sport Serie A
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117047
+#EXTINF:-1, Sky Calcio 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117048
+#EXTINF:-1, Sky Calcio 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117049
+#EXTINF:-1, Sky Calcio 3
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117050
+#EXTINF:-1, Sky Calcio 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117051
+#EXTINF:-1, Sky Calcio 5
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117052
+#EXTINF:-1, Dazn 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117053
+#EXTINF:-1, Dazn 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117054
+#EXTINF:-1, Milan Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117058
+#EXTINF:-1, Inter Tv
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117059
+#EXTINF:-1, Torino Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117060
+#EXTINF:-1, Roma Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117061
+#EXTINF:-1, Lazio Style Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117062
+#EXTINF:-1, Calcio Napoli 21
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117063
+#EXTINF:-1, Eleven Sport 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117064
+#EXTINF:-1, Eleven Sport 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117065
+#EXTINF:-1, Eleven Sport 3
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117066
+#EXTINF:-1, Eleven Sport 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117067
+#EXTINF:-1, Rai News
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117068
+#EXTINF:-1, Tgcom
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117069
+#EXTINF:-1, Tg Norma 24
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117070
+#EXTINF:-1, Sky Tg24
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117071
+#EXTINF:-1, Disney Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117072
+#EXTINF:-1, Disney Junior
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117073
+#EXTINF:-1, Cartoon Network
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117074
+#EXTINF:-1, Nick Junior
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117075
+#EXTINF:-1, Boomerang
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117076
+#EXTINF:-1, Cartoonito
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117077
+#EXTINF:-1, Nickelodeon
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117078
+#EXTINF:-1, Super
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117079
+#EXTINF:-1, Dea Junior
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117080
+#EXTINF:-1, Dea Kids
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117081
+#EXTINF:-1, Rai Gulp
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117082
+#EXTINF:-1, Rai YoYo
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117083
+#EXTINF:-1, Boing
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117084
+#EXTINF:-1, K2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117085
+#EXTINF:-1, Manga
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117086
+#EXTINF:-1, TeenNick
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117087
+#EXTINF:-1, Baby tv
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117088
+#EXTINF:-1, Peppa Pig Channel
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117089
+#EXTINF:-1, Braccio Di ferro 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117090
+#EXTINF:-1, Braccio di Ferro 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117091
+#EXTINF:-1, Booba
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117092
+#EXTINF:-1, Dragon Ball 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117093
+#EXTINF:-1, Dragon Ball 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117094
+#EXTINF:-1, Dragon Ball 3
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117095
+#EXTINF:-1, Dragon Ball 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117096
+#EXTINF:-1, Paperino
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117097
+#EXTINF:-1, Peppa Pig 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117098
+#EXTINF:-1, Ricky Zoom
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117099
+#EXTINF:-1, PrimaFila Live 1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117100
+#EXTINF:-1, PrimaFila Live 2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117101
+#EXTINF:-1, PrimaFila Live 3
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117102
+#EXTINF:-1, PrimaFila Live 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117103
+#EXTINF:-1, PrimaFila Live 5
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117104
+#EXTINF:-1, PrimaFila Live 6
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117105
+#EXTINF:-1, PrimaFila Live 7
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117106
+#EXTINF:-1, PrimaFila Live 8
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117107
+#EXTINF:-1, PrimaFila Live 9
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117108
+#EXTINF:-1, PrimaFila Live 10
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117109
+#EXTINF:-1, PrimaFila Live 11
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117110
+#EXTINF:-1, PrimaFila Live 12
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117111
+#EXTINF:-1, Tema Cinema hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117112
+#EXTINF:-1, Tema Avventura hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117113
+#EXTINF:-1, Tema Azione hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117114
+#EXTINF:-1, Tema Commedia hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117115
+#EXTINF:-1, Tema Guerra hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117116
+#EXTINF:-1, Tema Romantico hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117117
+#EXTINF:-1, Tema Thriller hd
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117118
+#EXTINF:-1, GRANDE FRATELLO VIP DIRETTA  1
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117119
+#EXTINF:-1, GRANDE FRATELLO VIP DIRETTA  2
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117120
+#EXTINF:-1, VHI
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117121
+#EXTINF:-1, MTV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117122
+#EXTINF:-1, RADIO PETERPAN
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117123
+#EXTINF:-1, RADIO ZETA
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117124
+#EXTINF:-1, SKY MTv Music
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117125
+#EXTINF:-1, M2O
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117126
+#EXTINF:-1, DEEJAY TV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117127
+#EXTINF:-1, FM ITALIA
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117128
+#EXTINF:-1, OTTO FM Tv
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117129
+#EXTINF:-1, Prima TV Sicilia
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117130
+#EXTINF:-1, Radio Italia Vision
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117131
+#EXTINF:-1, Radio BRUNO
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117132
+#EXTINF:-1, RADIO Capital
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117133
+#EXTINF:-1, Radio Taormina
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117134
+#EXTINF:-1, Radio FRECCIA
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117135
+#EXTINF:-1, RDS Social TV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117136
+#EXTINF:-1, RADIO Lombardia
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117137
+#EXTINF:-1, Antena Sud Puglia
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117138
+#EXTINF:-1, Esperia TV 18 Calabria
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117139
+#EXTINF:-1, Antena Sud
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117140
+#EXTINF:-1, Italia 2 TV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117141
+#EXTINF:-1, Telearena
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117142
+#EXTINF:-1, Super J TV Teramo
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117143
+#EXTINF:-1, Sophia TV
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117144
+#EXTINF:-1, Senato della Repubblica
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117145
+#EXTINF:-1, Sardegna Uno
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117146
+#EXTINF:-1, RMM Marche
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117147
+#EXTINF:-1, Gold Tv Roma
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117148
+#EXTINF:-1, History Lab
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117149
+#EXTINF:-1, Icaro TV Rimini
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117150
+#EXTINF:-1, Antenna Tre
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117151
+#EXTINF:-1, Canali 21 Campania
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117152
+#EXTINF:-1, Studio 100
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117153
+#EXTINF:-1, Videolina
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117154
+#EXTINF:-1, Dazn 3
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117055
+#EXTINF:-1, Dazn 4
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117056
+#EXTINF:-1, Dazn 5
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/117057
+#EXTINF:-1, +++++ Lista 2 +++++
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/00000
+#EXTINF:-1, +++++++++++++++++++
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/00000
+#EXTINF:-1, RAI 1 TNT
+http://evdibac.com:80/307202015717/307202015717/162005
+#EXTINF:-1, RAI 4 TNT
+http://evdibac.com:80/307202015717/307202015717/162004
+#EXTINF:-1, Rai Gulp TNT
+http://evdibac.com:80/307202015717/307202015717/162003
+#EXTINF:-1, Rai Movie TNT
+http://evdibac.com:80/307202015717/307202015717/162002
+#EXTINF:-1, RAI Premium TNT
+http://evdibac.com:80/307202015717/307202015717/162001
+#EXTINF:-1, Rai Yoyo TNT
+http://evdibac.com:80/307202015717/307202015717/162000
+#EXTINF:-1, Rai 2 hd TNT
+http://evdibac.com:80/307202015717/307202015717/161999
+#EXTINF:-1, rai sport+ TNT
+http://evdibac.com:80/307202015717/307202015717/161998
+#EXTINF:-1, la7 TNT
+http://evdibac.com:80/307202015717/307202015717/161997
+#EXTINF:-1, la7d TNT
+http://evdibac.com:80/307202015717/307202015717/161996
+#EXTINF:-1, Rai 1
+http://evdibac.com:80/307202015717/307202015717/161995
+#EXTINF:-1, Rai 2
+http://evdibac.com:80/307202015717/307202015717/161994
+#EXTINF:-1, Rai 3
+http://evdibac.com:80/307202015717/307202015717/161993
+#EXTINF:-1, Rete4
+http://evdibac.com:80/307202015717/307202015717/161992
+#EXTINF:-1, Italia 1
+http://evdibac.com:80/307202015717/307202015717/161991
+#EXTINF:-1, RSI LA 1 HD
+http://evdibac.com:80/307202015717/307202015717/161990
+#EXTINF:-1, LA7
+http://evdibac.com:80/307202015717/307202015717/161989
+#EXTINF:-1, LA 7D
+http://evdibac.com:80/307202015717/307202015717/161988
+#EXTINF:-1, TV8
+http://evdibac.com:80/307202015717/307202015717/161987
+#EXTINF:-1, RAI 4
+http://evdibac.com:80/307202015717/307202015717/161986
+#EXTINF:-1, Rai 5
+http://evdibac.com:80/307202015717/307202015717/161985
+#EXTINF:-1, Iris
+http://evdibac.com:80/307202015717/307202015717/161984
+#EXTINF:-1, Rai movie
+http://evdibac.com:80/307202015717/307202015717/161983
+#EXTINF:-1, Mediaset Italia 2
+http://evdibac.com:80/307202015717/307202015717/161982
+#EXTINF:-1, MEDIASET EXTRA
+http://evdibac.com:80/307202015717/307202015717/161981
+#EXTINF:-1, Mediaset Extra 2
+http://evdibac.com:80/307202015717/307202015717/161980
+#EXTINF:-1, Real Time
+http://evdibac.com:80/307202015717/307202015717/161979
+#EXTINF:-1, DMAX HD
+http://evdibac.com:80/307202015717/307202015717/161978
+#EXTINF:-1, Gambero Rosso
+http://evdibac.com:80/307202015717/307202015717/161977
+#EXTINF:-1, Cielo HD
+http://evdibac.com:80/307202015717/307202015717/161976
+#EXTINF:-1, canale 5
+http://evdibac.com:80/307202015717/307202015717/161975
+#EXTINF:-1, Rai News 24
+http://evdibac.com:80/307202015717/307202015717/161974
+#EXTINF:-1, Rai Premiun
+http://evdibac.com:80/307202015717/307202015717/161973
+#EXTINF:-1, SKY CINEMA UNO HD
+http://evdibac.com:80/307202015717/307202015717/161972
+#EXTINF:-1, SKY CINEMA UNO + 24 HD
+http://evdibac.com:80/307202015717/307202015717/161971
+#EXTINF:-1, Sky Cinema Due HD
+http://evdibac.com:80/307202015717/307202015717/161970
+#EXTINF:-1, Sky Cinema Due +24 HD
+http://evdibac.com:80/307202015717/307202015717/161969
+#EXTINF:-1, SKY CINEMA COLLECTION HD
+http://evdibac.com:80/307202015717/307202015717/161968
+#EXTINF:-1, SKY CINEMA FAMILY HD
+http://evdibac.com:80/307202015717/307202015717/161967
+#EXTINF:-1, Sky Cinema Action HD
+http://evdibac.com:80/307202015717/307202015717/161966
+#EXTINF:-1, SKY CINEMA DRAMA HD
+http://evdibac.com:80/307202015717/307202015717/161965
+#EXTINF:-1, SKY CINEMA ROMANCE HD
+http://evdibac.com:80/307202015717/307202015717/161964
+#EXTINF:-1, Sky Cinema Comedy HD
+http://evdibac.com:80/307202015717/307202015717/161963
+#EXTINF:-1, SKY CINEMA Suspense HD
+http://evdibac.com:80/307202015717/307202015717/161962
+#EXTINF:-1, SKY ATLANTIC HD
+http://evdibac.com:80/307202015717/307202015717/161961
+#EXTINF:-1, Sky Uno  1 HD
+http://evdibac.com:80/307202015717/307202015717/161960
+#EXTINF:-1, Sky Fox Crime HD
+http://evdibac.com:80/307202015717/307202015717/161959
+#EXTINF:-1, Sky Fox HD
+http://evdibac.com:80/307202015717/307202015717/161958
+#EXTINF:-1, Sky Focus
+http://evdibac.com:80/307202015717/307202015717/161957
+#EXTINF:-1, Primafila 1 live
+http://evdibac.com:80/307202015717/307202015717/161956
+#EXTINF:-1, Primafila 2 live
+http://evdibac.com:80/307202015717/307202015717/161955
+#EXTINF:-1, Primafila 3 live
+http://evdibac.com:80/307202015717/307202015717/161954
+#EXTINF:-1, Primafila 4 live
+http://evdibac.com:80/307202015717/307202015717/161953
+#EXTINF:-1, Primafila 5 live
+http://evdibac.com:80/307202015717/307202015717/161952
+#EXTINF:-1, Primafila 6 live
+http://evdibac.com:80/307202015717/307202015717/161951
+#EXTINF:-1, Primafila 7 live
+http://evdibac.com:80/307202015717/307202015717/161950
+#EXTINF:-1, Primafila 8 leve
+http://evdibac.com:80/307202015717/307202015717/161949
+#EXTINF:-1, Primafila 9 live
+http://evdibac.com:80/307202015717/307202015717/161948
+#EXTINF:-1, Primafila 10 leve
+http://evdibac.com:80/307202015717/307202015717/161947
+#EXTINF:-1, Primafila 11 leve
+http://evdibac.com:80/307202015717/307202015717/161946
+#EXTINF:-1, Primafila 12 leve
+http://evdibac.com:80/307202015717/307202015717/161945
+#EXTINF:-1, Premium Stories
+http://evdibac.com:80/307202015717/307202015717/161944
+#EXTINF:-1, Premium Energy
+http://evdibac.com:80/307202015717/307202015717/161943
+#EXTINF:-1, Premium Emotion
+http://evdibac.com:80/307202015717/307202015717/161942
+#EXTINF:-1, Premium Comedy
+http://evdibac.com:80/307202015717/307202015717/161941
+#EXTINF:-1, Premium Cinema
+http://evdibac.com:80/307202015717/307202015717/161940
+#EXTINF:-1, Premium Cinema 24
+http://evdibac.com:80/307202015717/307202015717/161939
+#EXTINF:-1, Premium Action
+http://evdibac.com:80/307202015717/307202015717/161938
+#EXTINF:-1, Premium 20
+http://evdibac.com:80/307202015717/307202015717/161937
+#EXTINF:-1, SKY Calcio 1 HD
+http://evdibac.com:80/307202015717/307202015717/161936
+#EXTINF:-1, Top Calcio 24
+http://evdibac.com:80/307202015717/307202015717/161933
+#EXTINF:-1, Sky Sport 24 HD
+http://evdibac.com:80/307202015717/307202015717/161932
+#EXTINF:-1, Sky Sport Uno
+http://evdibac.com:80/307202015717/307202015717/161931
+#EXTINF:-1, Sky Sport Serie A HD
+http://evdibac.com:80/307202015717/307202015717/161930
+#EXTINF:-1, sky sport serie a FHD
+http://evdibac.com:80/307202015717/307202015717/161929
+#EXTINF:-1, Sky Sport Seri A 1
+http://evdibac.com:80/307202015717/307202015717/161928
+#EXTINF:-1, Sky Sport Football HD
+http://evdibac.com:80/307202015717/307202015717/161927
+#EXTINF:-1, Sky Sport Arena H D
+http://evdibac.com:80/307202015717/307202015717/161926
+#EXTINF:-1, DAZN Sport 1 HD
+http://evdibac.com:80/307202015717/307202015717/161925
+#EXTINF:-1, DAZN Sport 2 HD
+http://evdibac.com:80/307202015717/307202015717/161924
+#EXTINF:-1, Premium Eurosport 1
+http://evdibac.com:80/307202015717/307202015717/161923
+#EXTINF:-1, Lazio Channel
+http://evdibac.com:80/307202015717/307202015717/161922
+#EXTINF:-1, Sky Sport 3 HD
+http://evdibac.com:80/307202015717/307202015717/161921
+#EXTINF:-1, SKY Sport F1 HD
+http://evdibac.com:80/307202015717/307202015717/161920
+#EXTINF:-1, Sky Sport MotoGP
+http://evdibac.com:80/307202015717/307202015717/161919
+#EXTINF:-1, Rai Sport 1
+http://evdibac.com:80/307202015717/307202015717/161918
+#EXTINF:-1, Rai Sport 2
+http://evdibac.com:80/307202015717/307202015717/161917
+#EXTINF:-1, Super Tennis HD
+http://evdibac.com:80/307202015717/307202015717/161916
+#EXTINF:-1, Eurosport 1 HD
+http://evdibac.com:80/307202015717/307202015717/161915
+#EXTINF:-1, Eurosport 2 HD
+http://evdibac.com:80/307202015717/307202015717/161914
+#EXTINF:-1, RAI SPORT
+http://evdibac.com:80/307202015717/307202015717/161913
+#EXTINF:-1, Disney XD
+http://evdibac.com:80/307202015717/307202015717/161912
+#EXTINF:-1, Sky Cartoon Network
+http://evdibac.com:80/307202015717/307202015717/161911
+#EXTINF:-1, Cartoon Network
+http://evdibac.com:80/307202015717/307202015717/161910
+#EXTINF:-1, Sky  DISNEY JUNIOR
+http://evdibac.com:80/307202015717/307202015717/161909
+#EXTINF:-1, Sky DISNEY CHANNEL
+http://evdibac.com:80/307202015717/307202015717/161908
+#EXTINF:-1, Rai gulp
+http://evdibac.com:80/307202015717/307202015717/161907
+#EXTINF:-1, Rai Yoyo
+http://evdibac.com:80/307202015717/307202015717/161906
+#EXTINF:-1, DISNEY JUNIOR
+http://evdibac.com:80/307202015717/307202015717/161905
+#EXTINF:-1, CARTOONITO
+http://evdibac.com:80/307202015717/307202015717/161904
+#EXTINF:-1, Sky Discovery Science HD
+http://evdibac.com:80/307202015717/307202015717/161903
+#EXTINF:-1, Sky NatGeo Wild HD
+http://evdibac.com:80/307202015717/307202015717/161902
+#EXTINF:-1, SKY NATIONAL GEOGRAPHIC HD
+http://evdibac.com:80/307202015717/307202015717/161901
+#EXTINF:-1, History Lab
+http://evdibac.com:80/307202015717/307202015717/161900
+#EXTINF:-1, GIALLO
+http://evdibac.com:80/307202015717/307202015717/161899
+#EXTINF:-1, FOX LIFE HD
+http://evdibac.com:80/307202015717/307202015717/161898
+#EXTINF:-1, Fox HD
+http://evdibac.com:80/307202015717/307202015717/161897
+#EXTINF:-1, FOX COMEDY HD
+http://evdibac.com:80/307202015717/307202015717/161896
+#EXTINF:-1, Animal Planet
+http://evdibac.com:80/307202015717/307202015717/161895
